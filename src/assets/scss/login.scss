@@ -1,0 +1,26 @@
+.login-wrap {
+  background-color: #f4f7fc;
+
+  .row {
+    height: 90vh;
+  }
+  &__body {
+    padding: 2.5rem 2rem;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(126, 142, 177, 0.1);
+  }
+  &__info {
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__submit {
+    width: 100%;
+  }
+  &__foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
