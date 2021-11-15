@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "전동혁",
+      "email": "easthyuck@hunet.co.kr",
+      "id": "test01",
+      "password": "pass01"
+    },
+    {
+      "name": "성진희",
+      "email": "jinhees@hunet.co.kr",
+      "id": "test02",
+      "password": "pass02"
+    },
+    {
+      "name": "원재현",
+      "email": "dnjs02018@hunet.co.kr",
+      "id": "test03",
+      "password": "pass03"
+    },
+    {
+      "name": "전민경",
+      "email": "jmk@hunet.co.kr",
+      "id": "test04",
+      "password": "pass04"
+    },
+    {
+      "name": "서진",
+      "email": "suhjin700@hunet.co.kr",
+      "id": "test05",
+      "password": "pass05"
+    }
+  ],
+  "corpMember": [
+    {
+      "companyName": "기업01",
+      "represent": "대표자01",
+      "manager": "담당자01",
+      "address": "서울시 강남구 역삼동",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업02",
+      "represent": "대표자02",
+      "manager": "담당자02",
+      "address": "서울시 강남구 역삼동 2",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업03",
+      "represent": "대표자03",
+      "manager": "담당자03",
+      "address": "서울시 강남구 역삼동 3",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업04",
+      "represent": "대표자04",
+      "manager": "담당자04",
+      "address": "서울시 강남구 역삼동 4",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업05",
+      "represent": "대표자05",
+      "manager": "담당자05",
+      "address": "서울시 강남구 역삼동 5",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업06",
+      "represent": "대표자06",
+      "manager": "담당자06",
+      "address": "서울시 강남구 역삼동 6",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업07",
+      "represent": "대표자07",
+      "manager": "담당자06",
+      "address": "서울시 강남구 역삼동 7",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업08",
+      "represent": "대표자08",
+      "manager": "담당자08",
+      "address": "서울시 강남구 역삼동 8",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업09",
+      "represent": "대표자09",
+      "manager": "담당자09",
+      "address": "서울시 강남구 역삼동 9",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업10",
+      "represent": "대표자10",
+      "manager": "담당자10",
+      "address": "서울시 강남구 역삼동 10",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    },
+    {
+      "companyName": "기업11",
+      "represent": "대표자11",
+      "manager": "담당자11",
+      "address": "서울시 강남구 역삼동 11",
+      "approvalStatus": "Y",
+      "activeStatus": "on"
+    }
+  ]
+}
